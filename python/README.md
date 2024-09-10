@@ -1,0 +1,8 @@
+- [python笔记](/python/)
+    - [python基础](/python/1.python基础/)
+        - [基于缓存+子线程的请求日志保存方案](/python/1.python基础/基于缓存+子线程的请求日志保存方案.md)
+    - [python高级](/python/python高级/)
+        - [论如何在微服务中优雅的实现Redis序列化配置](/python/python高级/论如何在微服务中优雅的实现Redis序列化配置.md)
+    - [springboot框架](/python/springboot/)
+        - [SpringBean的加载方式8种](/python/springboot/SpringBean的加载方式【8种】.md)
+        - [基于pythonx.validation自定义参数校验注解，类似@NotNull](/python/springboot/基于pythonx.validation自定义参数校验注解，类似@NotNull.md)

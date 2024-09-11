@@ -97,7 +97,7 @@ public class Music {
 以下类图使用 PlantUML 绘制，更多语法及使用请参考: http://plantuml.com/ 。 泛化关系 (Generalization)
 用来描述继承关系，在 Java 中使用 extends 关键字。
 
-![img.png](img.png)
+![img.png](img/img.png)
 ```shell
 startuml
 
@@ -115,4 +115,4 @@ Vehical <|-- Truck
 ## 实现关系 (Realization)
 用来实现一个接口，在 Java 中使用 implements 关键字。
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)

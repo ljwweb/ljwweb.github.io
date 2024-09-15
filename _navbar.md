@@ -2,7 +2,7 @@
 - [Java🧱 &darr;](/)
   - [java基础](/java/java基础/)
   - [java高级](/java/java高级/)
-  - [springboot框架](/java/springboot/)
+  - [springboot框架](/java/spring/)
 - [Python🤬 &darr;](/)
   - [Python系统入门+进阶](/python/1.python基础/)
 - [中间件📝 &darr;](/)

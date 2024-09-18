@@ -6,6 +6,7 @@
 - [Python🤬 &darr;](/)
   - [Python系统入门+进阶](/python/1.python基础/)
 - [中间件📝 &darr;](/)
+  - [redis](/middleware/redis/)
 
 - [Devops💯 &darr;](/)
 

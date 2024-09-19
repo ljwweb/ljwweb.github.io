@@ -13,3 +13,4 @@
 - [Java基础-反射机制详解](/java/java基础/Java基础-反射机制详解.md)
 
 - [Java常用机制-SPI机制详解](/java/java基础/Java常用机制-SPI机制详解.md)
+- [1.Java基础-枚举的应用](/java/java基础/1.Java基础-枚举的应用.md)

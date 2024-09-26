@@ -3,7 +3,10 @@
   - [java基础&进阶](/java/java基础&进阶/)
   - [spring全家桶](/java/spring全家桶/)
 - [Python🤬 &darr;](/)
-  - [Python系统入门+进阶](/python/1.python基础/)
+  - [Python系统入门+进阶](/python/python基础&进阶/)
+  - [常用第三方框架](/python/常用第三方框架/)
+  - [flask框架](/python/flask框架/)
+  - [Django框架](/python/Django框架/)
 - [中间件📝 &darr;](/)
   - [redis](/middleware/redis/)
 
